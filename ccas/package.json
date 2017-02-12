@@ -1,0 +1,25 @@
+{
+  "name": "ccas",
+  "version": "1.0.0",
+  "description": "Central Cascade Automotive Sales Ordering System",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "automobiles",
+    "sales"
+  ],
+  "author": "Damon Kaswell",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mockgoose": "^6.0.8",
+    "mongoose": "^4.8.1",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}

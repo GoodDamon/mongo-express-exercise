@@ -1,0 +1,20 @@
+{
+  "name": "acme",
+  "version": "1.0.0",
+  "description": "ACME Auto Supply, Wile E. Coyote's supplier of choice",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "parts",
+    "accessories"
+  ],
+  "author": "Damon Kaswell",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "uuid": "^3.0.1"
+  }
+}

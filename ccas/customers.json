@@ -1,0 +1,38 @@
+[
+    {
+        "customer_id": 1,
+        "name": "Bob Anybody",
+        "address": "123 4th St.",
+        "city": "Anytown",
+        "state": "OR",
+        "zip": "97402",
+        "shippable": true
+    },
+    {
+        "customer_id": 2,
+        "name": "Sally Someone",
+        "address": "678 9th St.",
+        "city": "Someville",
+        "state": "OR",
+        "zip": "97408",
+        "shippable": true
+    },
+    {
+        "customer_id": 3,
+        "name": "Peter Person",
+        "address": "101 Main St.",
+        "city": "Peopleburg",
+        "state": "OR",
+        "zip": "97401",
+        "shippable": true
+    },
+    {
+        "customer_id": 4,
+        "name": "Ivan T. Terrible",
+        "address": "1000 Shivering Heights Rd.",
+        "city": "Freezingtown",
+        "state": "Siberia, Russia",
+        "zip": "00000",
+        "shippable": false
+    }
+]

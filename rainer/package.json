@@ -1,0 +1,20 @@
+{
+  "name": "rainer",
+  "version": "1.0.0",
+  "description": "Rainer Supply and Stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "parts",
+    "accessories"
+  ],
+  "author": "Damon Kaswell",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "uuid": "^3.0.1"
+  }
+}
